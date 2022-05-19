@@ -1,0 +1,58 @@
+@charset "utf-8";
+.P1 {
+    height: 300px;
+    background-image: url(http://album.udn.com/community/img/PSN_PHOTO/jeanjane25614/f_5629280_1.jpg);
+    background-position: center center;
+    background-size: contain;
+    margin: 5px;
+}
+.P2 {
+    height: 300px;
+    background-image: url(http://album.udn.com/community/img/PSN_PHOTO/jeanjane25614/f_5629278_1.jpg);
+     background-position: center center;
+    background-size: cover;
+	margin: 5px;
+}
+.P3 {
+    height: 300px;
+    background-image: url(http://album.udn.com/community/img/PSN_PHOTO/jeanjane25614/f_5629272_1.jpg);
+    background-position: center center;
+    background-size: cover;
+	margin: 5px;
+}
+.P4 {
+    height: 300px;
+    background-image: url(https://www.clipstudio.net/wp-content/uploads/2020/04/0097_016_2.jpg);
+    background-position: center center;
+    background-size: cover;
+	margin: 5px;
+}
+
+.P5 {
+    height: 300px;
+    background-image: url(https://www.clipstudio.net/wp-content/uploads/2020/02/0097_25.jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+
+
+.P6 {
+    height: 600px;
+    background-image: url(https://www.clipstudio.net/wp-content/uploads/2020/05/0097_001_zh-tw.jpg);
+    background-position: center center;
+    background-size: cover;
+	margin: 5px;
+}
+.wo {
+    text-align: center;
+    font-size: 65px;
+    color: #E5BDB6;
+    margin-bottom: -6px;
+    height: 217px;
+    background-color: #7D3633;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
